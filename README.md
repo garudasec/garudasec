@@ -4,7 +4,7 @@
 
 ---
 
-<!-- <!-- # 🛠 Knowledge & Skills -->
+<!-- # 🛠 Knowledge & Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -28,9 +28,9 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white) -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 
 
