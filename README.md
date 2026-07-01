@@ -1,6 +1,5 @@
 Always Learning!!
 
-
 ## Languages Used
 
 ![Top Langs](https://github-readme-stats-eight-alpha-79.vercel.app/api/top-langs/?username=garudasec&theme=github_dark&hide_border=true)
