@@ -1,6 +1,8 @@
 Always Learning!!
 
-![Top Langs](https://github-readme-stats-eight-alpha-79.vercel.app/api/top-langs/?username=garudasec&theme=github_dark&hide_border=true&layout=donut-vertical)
+<!-- ## Languages Used -->
+
+<!-- ![Top Langs](https://github-readme-stats-eight-alpha-79.vercel.app/api/top-langs/?username=garudasec&theme=tokyonight&hide_border=true) -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
